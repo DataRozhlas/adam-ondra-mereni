@@ -4,7 +4,7 @@ published: "21. dubna 2018"
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='#'>ČTK</a>"
 styles: []
-libraries: [] #jquery, d3, d3v5, d3csv, highcharts, datatables
+libraries: [highcharts] #jquery, d3, d3v5, d3csv, highcharts, datatables
 options: [noheader, nopic] #wide, noheader (, nopic)
 ---
 <left>
@@ -21,7 +21,19 @@ Naopak v noci se nejvíc lidí se „namačká“ ve Vršovicích, jde o 430 oso
 
 Detaily si můžete prohlédnout v následující mapě, kterou z dat mobilních operátorů zpracoval pražský [Institut plánování a rozvoje](http://www.iprpraha.cz/).
 
-<wide>_Pokud vás zajímá, kolik lidí bývá ve dne a v noci ve vaší čtvrti, najděte si ji na mapě, přepněte se na časové řezy, vyberte přepínač hustota osob a potom pohybujte posuvníkem nahoře._</wide>
+## Adam Ondra hýr
+
+<wide>
+<div class="board" id="ao_board">
+    <img id="ao_vid" class='img' src="https://data.irozhlas.cz/ao-scrollboard/media/adam_video/5.jpg" alt="">
+    <img id="ao_3d" class='img' src="https://data.irozhlas.cz/ao-scrollboard/media/adam_3d/5.jpg" alt="">
+    <div id="ao_chart" class="chart"></div>
+    <div id="ao_pop", class="pop"></div>
+    <div class="sliderbox">
+        <input type="range" min="5" max="970" step="5" value="5" class="slide" id="ao_slider">
+    </div>
+</div>
+</wide>
 
 
 ## Data na prodej
@@ -36,5 +48,19 @@ Detaily si můžete prohlédnout v následující mapě, kterou z dat mobilních
 I pokud netelefonujeme nebo neposíláme SMS, telefon pravidelně komunikuje s vysílači v síti mobilního operátora. Z dat o síle signálu a použité anténě je možné odvodit, kde se přibližně telefon nachází a jak dlouhou dobu na místě strávil.
 
 Mobilní operátor má [zákonnou povinnost](https://www.zakonyprolidi.cz/cs/2005-127/zneni-20160919#p97-3) takové informace uchovávat, a to půl roku do minulosti, přistupovat k nim ale mohou jen bezpečnostní složky, typicky policie nebo rozvědka.
+
+## Štěpán Stránik dér
+
+<wide>
+<div class="board" id="ss_board">
+    <img id="ss_vid" class='img' src="https://data.irozhlas.cz/ao-scrollboard/media/stepan_video/5.jpg" alt="">
+    <img id="ss_3d" class='img' src="https://data.irozhlas.cz/ao-scrollboard/media/stepan_3d/5.jpg" alt="">
+    <div id="ss_chart" class="chart"></div>
+    <div id="ss_pop", class="pop"></div>
+    <div class="sliderbox">
+        <input type="range" min="5" max="835" step="5" value="5" class="slide" id="ss_slider">
+    </div>
+</div>
+</wide>
 
 Operátoři ale obdobné informace mohou anonymizovat (tedy zbavit identifikace konkrétního uživatele) a agregovat, tedy spojit informace o jednotlivcích do jakýchsi skupin. Výsledná obecná čísla pak přeprodávají dál, například marketingovým firmám či dopravním analytikům. Zpětně z nich nejde dovodit, kde se pohybuje každý jednotlivec, dávají ale určitý přehled o obecném chování obyvatel nějakého místa.
