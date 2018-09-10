@@ -8,12 +8,13 @@
 .img {
     max-width: 45%;
     object-fit: contain;
+    object-position: top;
     margin: 2px;
-    max-height: 40vh;
+    max-height: 20vh;
 }
 .chart {
     max-width: 100%;
-    max-height: 40vh;
+    height: 30vh;
 }
 .sliderbox {
     width: 80%;

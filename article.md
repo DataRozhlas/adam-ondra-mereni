@@ -119,7 +119,7 @@ _Styl obou lezců můžete srovnat sami: posunem dolů a nahoru po obrazovce, p�
     <img id="ao_vid" class='img' src="https://data.irozhlas.cz/ao-scrollboard/media/adam_video/5.jpg" alt="">
     <img id="ao_3d" class='img' src="https://data.irozhlas.cz/ao-scrollboard/media/adam_3d/5.jpg" alt="">
     <div id="ao_chart" class="chart"></div>
-    <div id="ao_pop", class="pop"></div>
+    <!-- <div id="ao_pop", class="pop"></div> -->
     <div class="sliderbox">
         <input type="range" min="5" max="970" step="5" value="5" class="slide" id="ao_slider">
     </div>
@@ -133,7 +133,7 @@ _Styl obou lezců můžete srovnat sami: posunem dolů a nahoru po obrazovce, p�
     <img id="ss_vid" class='img' src="https://data.irozhlas.cz/ao-scrollboard/media/stepan_video/5.jpg" alt="">
     <img id="ss_3d" class='img' src="https://data.irozhlas.cz/ao-scrollboard/media/stepan_3d/5.jpg" alt="">
     <div id="ss_chart" class="chart"></div>
-    <div id="ss_pop", class="pop"></div>
+    <!-- <div id="ss_pop", class="pop"></div> -->
     <div class="sliderbox">
         <input type="range" min="5" max="835" step="5" value="5" class="slide" id="ss_slider">
     </div>

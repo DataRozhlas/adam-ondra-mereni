@@ -82,16 +82,16 @@ function updateBoard(val) {
             }],
         }
     });
-    var selPop = pop_ao.filter(function(e) {
-        if ((e.from * 100 <= val) && (e.to * 100 >= val)) {
-            return true;
-        }
-    });
-    if (selPop.length > 0) {
-        document.getElementById('ao_pop').innerHTML = selPop[0].text;
-    } else {
-        document.getElementById('ao_pop').innerHTML = '';
-    };
+    //var selPop = pop_ao.filter(function(e) {
+    //    if ((e.from * 100 <= val) && (e.to * 100 >= val)) {
+    //        return true;
+    //    }
+    //});
+    //if (selPop.length > 0) {
+    //    document.getElementById('ao_pop').innerHTML = selPop[0].text;
+    //} else {
+    //    document.getElementById('ao_pop').innerHTML = '';
+    //};
 }
 
 // scroling watch
@@ -192,16 +192,16 @@ function updateBoard(val) {
             }],
         }
     });
-    var selPop = pop_ao.filter(function(e) {
-        if ((e.from * 100 <= val) && (e.to * 100 >= val)) {
-            return true;
-        }
-    });
-    if (selPop.length > 0) {
-        document.getElementById('ss_pop').innerHTML = selPop[0].text;
-    } else {
-        document.getElementById('ss_pop').innerHTML = '';
-    };
+    //var selPop = pop_ao.filter(function(e) {
+    //    if ((e.from * 100 <= val) && (e.to * 100 >= val)) {
+    //        return true;
+    //    }
+    //});
+    //if (selPop.length > 0) {
+    //    document.getElementById('ss_pop').innerHTML = selPop[0].text;
+    //} else {
+    //    document.getElementById('ss_pop').innerHTML = '';
+    //};
 };
 
 // scroling watch
