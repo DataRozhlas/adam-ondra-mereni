@@ -1,5 +1,5 @@
-title: "Jak jsme měřili <br/>Adama Ondru, <br/>nejlepšího lezce světa"
-perex: "Silné prsty, dokonalá technika, dlouhý krk? Lezečtí experti pátrají, co dává českému lezci náskok. Při měření pohybu technologií motion capture jsme objevili prvek, který překvapil i Adama samotného."
+title: "Adam Ondra<br/>ověšený senzory.<br/>Co z něj dělá<br/>nejlepšího lezce světa?"
+perex: "Silné prsty, dokonalá technika, dlouhý krk? Lezečtí experti pátrají, co dává českému lezci náskok. Datoví novináři Českého rozhlasu změřili jeho pohyb technologií motion capture. Objevili prvek, který překvapil i Adama samotného."
 published: "10. září 2018"
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/adam2_180909-150545_jab.jpg?itok=3TwZlcjs
 coverimg_note: "Adam Ondra se senzory pro měření polohy. Foto Michaela Danelová | iRozhlas.cz</a>"
@@ -50,9 +50,9 @@ Jak Adam tohle pravidlo myslí, ilustruje zmiňované video z přelezu Silence; 
 
 ## Glumové na stěně: filmové senzory měří lezce
 
-Měření hrubé síly tedy nezajímalo Adama. Genetické testy zase byly nad naše možnosti a hlavně schopnosti interpretace.
+Měření hrubé síly tedy Adama nezajímalo. Genetické testy zase byly nad naše možnosti a hlavně schopnosti interpretace.
 
-Zato kloubní pohyblivost a techniku, která mu umožňuje překonávat papírově silnější lezce, jsme považovali za měřitelnou. A co víc, vizuálně zajímavou. Stačilo sehnat partnera, který dokáže na stěně nasnímat lezce, ověšeného senzory, a zpracovat pohyb jeho kloubů do trojrozměrného modelu – tedy technologii motion capture. Stejným způsobem v minulosti vznikla filmová postava Gluma ([video](https://www.youtube.com/watch?v=w_Z7YUyCEGE)) nebo draka Šmaka, kterého rozhýbal Brit Benedict Cumberbatch ([video](https://www.youtube.com/watch?v=Wu9XPEdBelY)).
+Zato kloubní pohyblivost a techniku, která mu umožňuje překonávat papírově silnější lezce, jsme považovali za měřitelnou. A co víc, vizuálně zajímavou. Stačilo sehnat partnera, který dokáže na stěně nasnímat lezce ověšeného senzory, a zpracovat pohyb jeho kloubů do trojrozměrného modelu – tedy technologii motion capture. Stejným způsobem v minulosti vznikla filmová postava Gluma ([video](https://www.youtube.com/watch?v=w_Z7YUyCEGE)) nebo draka Šmaka, kterého rozhýbal Brit Benedict Cumberbatch ([video](https://www.youtube.com/watch?v=Wu9XPEdBelY)).
 
 Oproti autorům obou tolkienovských postav jsme ovšem měli těžší zadání: zaměřit kamery na dvě desítky metrů vysokou cestu a zabírat ji z podobného odstupu. Technologii, která by to dokázala, jsme hledali poměrně dlouho. Nakonec jsme ji objevili na Fakultě sportovních studií brněnské Masarykovy univerzity. Spolupráce s [laboratoří biomotoriky](http://www.fsps.muni.cz/vav/laboratore/laborator-biomotoriky-836.html) navíc znamenala kromě samotného měření i pomoc s interpretací pohybu – i když lezec byl pro akademiky novinka.
 
@@ -78,7 +78,7 @@ Dvacetimetrovou cestu Adam vyběhl během necelých tří minut. Vzápětí se m
 
 Než jsme mu stačili tričko sundat, odchytili Adama rozhlasoví dokumentaristi a začali s natáčením. Při otázce na Olympiádu v Tokiu za dva roky, kde se poprvé představí sportovní lezení, Adamovi křivka vyskočila na 150 tepů za minutu. Adam, podobně jako další lezci, nesouhlasí s podobou turnaje na olympijských hrách: tři lezecké disciplíny, lezení na obtížnost, bouldering a rychlostní lezení, budou spojeny do jedné. „Naprostá většina elitních lezců se specializuje v jediné disciplíně, takže debut lezení na olympijských hrách bude podmanivá, vzrušující a naprosto nepředvídatelná podívaná,“ hájí novinku Mezinárodní olympijský výbor.
 
-„Je to jako nechat Usaina Bolta běžet maraton a pak sprint přes překážky,“ doplňuje britská šampionka Shauna Coxsey. Jí se taková kombinace líbí, většina lezců ji ale odmítá.
+„Je to jako nechat Usaina Bolta běžet maraton a pak sprint přes překážky,“ doplňuje v promo článku na Tokio britská šampionka Shauna Coxsey. Jí se taková kombinace líbí, většina lezců ji ale odmítá.
 
 <wide><iframe width="100%" height="585px" src="https://www.youtube.com/embed/TvvgfImroYo?rel=0&amp;controls=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></wide>
 
@@ -102,7 +102,7 @@ Také model pohybu z motion capture v pohybové laboratoři nejprve ukázal oče
 
 Porovnání mezi oběma lezci ukázalo i další rozdíly: zatímco Adam má v klíčovém kroku rovná záda a lokty drží u stěny – jako z učebnice – Štěpán se při něm nahrbí a technické nedostatky dohání silou.
 
-Pak ale přišlo překvapení. Když obrazovku s lezoucími kostrami obou sportovců uviděl děkan fakulty, odborník na biomechaniku Martin Zvonař, uviděl něco jiného.
+Pak ale přišlo překvapení. Když obrazovku s lezoucími kostrami obou sportovců uviděl děkan fakulty, odborník na biomechaniku Martin Zvonař, všiml si detailu, který jsme přehlédli.
 
 „Všimněte si, co Adam na konci kroku udělá s hlavou,“ ukazoval Zvonař na obrazovku. „Používá ji jako páku: jakmile dokončí pohyb, zakloní ji. Střed páky je v těžišti, takže díky tomu lépe přilepí nohy ke stěně. Nevím, jestli to dělá úmyslně nebo intuitivně, ale určitě mu to pomáhá.“
 
