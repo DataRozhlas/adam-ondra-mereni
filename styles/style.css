@@ -6,15 +6,22 @@
     justify-content: center;
 }
 .img {
-    max-width: 45%;
+    width: 45%;
     object-fit: contain;
-    object-position: top;
+    object-position: right;
     margin: 2px;
-    max-height: 20vh;
+    max-height: 30vh;
+}
+.img2 {
+    width: 45%;
+    object-fit: contain;
+    object-position: left;
+    margin: 2px;
+    max-height: 30vh;
 }
 .chart {
     max-width: 100%;
-    height: 30vh;
+    height: 40vh;
 }
 .sliderbox {
     width: 80%;
