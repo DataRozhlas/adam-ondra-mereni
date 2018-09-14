@@ -1,123 +1,121 @@
-title: "Adam Ondra<br/>ověšený senzory.<br/>Co z něj dělá<br/>nejlepšího lezce světa?"
-perex: "Silné prsty, dokonalá technika, dlouhý krk? Lezečtí experti pátrají, co dává českému lezci náskok. Datoví novináři Českého rozhlasu změřili jeho pohyb technologií motion capture. Objevili prvek, který překvapil i Adama samotného."
-published: "10. září 2018"
+title: "Adam Ondra<br/>hung with sensors.<br/>What makes him<br/>the world’s best climber?"
+perex: "Strong fingers, a perfect technique, a long neck? Climbing experts have been trying to find out what enables the Czech climber to be at an advantage. iRozhlas’s data journalists have measured his movements using motion capture technology. They have found a feature that surprises Adam himself."
+published: "14 Sep 2018"
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/adam2_180909-150545_jab.jpg?itok=3TwZlcjs
-coverimg_note: "Adam Ondra se senzory pro měření polohy. Foto Michaela Danelová | iRozhlas.cz</a>"
+coverimg_note: "Adam Ondra with position sensors. Photo by Michaela Danelová | iRozhlas.cz</a>"
 styles: []
 libraries: [highcharts] #jquery, d3, d3v5, d3csv, highcharts, datatables
 options: [] #wide, noheader (, nopic)
 ---
 
-Pětadvacetiletý Adam Ondra je nejlepší lezec světa; jak na stěně, tak na skalách. V neděli přidal ke dvěma titulům mistra světa v lezení na obtížnost také vicemistra ([video](https://youtu.be/dXuJzBDeU2o?t=24m12s)), před rokem přelezl nejobtížnější skalní cestu v historii, Silence v norském Flatangeru ([video](https://www.youtube.com/watch?v=ZRTNHDd0gL8)).
+Twenty-five-year old Adam Ondra is the world’s best climber both on the climbing wall and on rocks. Last week he added a title of vice-champion to his two championships in lead climbing ([video](https://youtu.be/dXuJzBDeU2o?t=24m12s)). Last year he climbed the most difficult route in the world, Silence, in Flatanger, Norway ([video](https://www.youtube.com/watch?v=ZRTNHDd0gL8)).
 
-<right><h3>„Celý můj život je spojený s lezením. Vůbec nevím, kdo bych bez lezení byl“</h3><div><a href="http://extra.rozhlas.cz/fenomen-adam-ondra#174364">Poslechněte si vyprávění Adama Ondry</a></div></right>
+Many experts have been analysing Adam’s performances, looking for the ingredients that enable him to be ahead of others. Most recently, they have been scrutinising his climbing of Silence. The most detailed – and by far the most interesting – is [American trainer Erik Hörst’s analysis](http://trainingforclimbing.com/performance-analysis-of-adam-ondras-breakthrough-ascent-of-the-worlds-first-5-15d-9c/). He describes the energy saved in the difficult sections, praises Adam’s ability to take a rest and is excited by his working with breath, which is assisted by regular shouts on the rock, although their meanings can be best [understood by the Czechs](https://youtu.be/ZRTNHDd0gL8?t=4m30s).
 
-Řada expertů Adamovy výkony analyzuje a hledá přísady, které mu dávají náskok proti ostatním. Nejnověji pitvají právě přelez Silence. Mezi nimi je nejdetailnější – a s velkým náskokem nejzajímavější – [analýza amerického trenéra Erika Hörsta](http://trainingforclimbing.com/performance-analysis-of-adam-ondras-breakthrough-ascent-of-the-worlds-first-5-15d-9c/). Popisuje ušetřenou energii v těžkých pasážích, chválí Adama za schopnost odpočívat a je nadšený z práce s dechem, ke které na skále dopomáhají pravidelné výkřiky – i když obsahu slov [lépe porozumí Češi](https://youtu.be/ZRTNHDd0gL8?t=4m30s).
-
-Dosavadní analýzy se ale soustředí jen na některé prvky Adamova stylu a to ještě většinou zprostředkovaně. Většině expertů musí stačit video nebo tabulky výkonů. K objevování toho zůstává spousta, navíc je Adam doma v Česku ochotně k dispozici pro testy a debaty nad výsledky. Pátrání, co je na jeho stylu tak výjimečné, ostatně zajímá jeho samotného: leze intuitivně a analytický pohled ho čas od času překvapí.
+However, the existing analyses are only focused on some features of Adam’s style and often indirectly. Most experts’ opinions can only be based on videos or performance tables. There is still a lot to discover. Moreover, in the Czech Republic Adam is readily available for tests and discussions of his results. After all, looking for what makes his style so outstanding is interesting for him as well since he climbs intuitively and an analytical view surprises him from time to time.
 
 <wide><div><img src="https://www.irozhlas.cz/sites/default/files/styles/zpravy_fotogalerie_medium/public/uploader/adam_ondra_danelova__180909-194726_jab.jpg?itok=y4_shMfC" width="100%"></div></wide>
 
-## „Proti jiným jsem slabý“
+## “I am weak in comparison with others”
 
-Lezecký pohyb je nesmírně komplikovaný. Na rozdíl od vytrvalostního běhu, kde jsme zátěž běžce pomocí senzorů pro tep, okysličení svalů a průtok krve [změřili loni](https://samizdat.cz/data/maraton-frontend-graphs/analyza/), nemá lezení „správné“ ukazatele, které by ho dokázaly v úplnosti popsat. Nabízí se řada možností: nejklasičtější je měření síly prstů, rukou a paží; můžeme také analyzovat rychlost, plynulost a přesnost samotného pohybu na stěně; pozorovat, jak se na výkonu projevuje psychika, například strach z pádu; nebo jít až na dřeň a zkusit genetické testy, jak nám navrhoval analytik Erik Hörst.
+A climber’s movement is extremely complicated. Unlike endurance running, where [we measured a runner’s load](https://samizdat.cz/data/maraton-frontend-graphs/analyza/) by pulse, muscle oxygenation and blood flow sensors last year, climbing has no “right” indicators that could describe it in its entirety. There are a lot of options: the most traditional one is measuring the strength of the fingers, hands and arms; we can also analyse the speed, smoothness and accuracy of the movement on the climbing wall as such, watch how performance is affected by the climber’s psyche (e.g. the fear of falling down); or we can go to the very core and try genetic testing as suggested by analyst Erik Hörst.
 
-Před úvodním návrhem designu měření jsme si proto domluvili schůzku s Adamem.
+Therefore, we arranged a meeting with Adam before the initial design of the measuring.
 
-Téměř 190centimetrový Adam Ondra je ve svém sportu anomálie – většina sportovních lezců je drobnějších a s výjimkou vypracovaných ramen poměrně útlých. Na první pohled zaujme i Adamův dlouhý krk.
+The almost 190 centimetres tall Adam Ondra is an oddity in his sport: most sport climbers are shorter and quite thin except for their well-defined muscles. What also stands out is Adam’s long neck.
 
-„Určitě nemá smysl testovat sílu,“ začíná Adam. „Nic moc to neukáže, nejsem nějak extrémně silný. Jsem slabší než jiní lezci, ale vylezu víc.“
+“There’s definitely no point in testing strength,” says Adam. “That won’t show much as I’m not exceptionally strong. I am weaker than others but I can climb more.”
 
-_Slabší_ znamená, že na prstech jedné ruky, zavěšený na dva centimetry hluboké liště, unese 1,1krát vlastní váhu. Lezec Alex Megos, kterého Adam považuje za svého nejbližšího soupeře, se unese 1,3krát. Adamův výkon [analytický server Lattice](https://latticetraining.com/2017/09/07/9c-adam-ondra-alex-megos/) odhadl, Alexův změřil.
+_Weaker_ means that hanging on a two-centimetre edge he can hold 1.1 times his bodyweight on the fingers of one hand. Climber Alex Megos, who Adam regards as his closest rival, can hold 1.3 times his own bodyweight. Adam’s performance was estimated and Alex’s [measured by Lattice](https://latticetraining.com/2017/09/07/9c-adam-ondra-alex-megos/), an analyst server.
 
 <wide><div><img src="https://www.irozhlas.cz/sites/default/files/styles/zpravy_fotogalerie_medium/public/uploader/adam_ondra_danelova__180909-195508_jab.jpg?itok=4hSWzMjk" width="100%"></div></wide>
 
-Společně s manažerem Pavlem Blažkem, který má roli zlého muže – jinak by Adam všechno odkýval a nezbyl mu čas na trénink – vysvětlují, v čem naopak vyniká.
+Along with his manager, Pavel Blažek, who plays the role of the strict guy because otherwise Adam would agree to everything and have no time left for training, they explain what he excels in.
 
-„Mám docela slušně mobilní kyčle, takže se dokážu lépe přilepit ke skále,“ pokračuje Adam. „Těžiště blíž u skály znamená, že můžu pořádně zapojit nohy a nemusím chyty držet tak silně. Takže ušetřím síly.“
+“My hips are fairly mobile, so I can cling better to the rock,” Adam continues. “Having my centre of gravity closer to the rock means that I can use my legs thoroughly and I don’t need to hold on to the holds so strongly. So, I save my power.”
 
-Oba zmiňují Adamovo intuitivní lezení.
+Both of them mention Adam’s intuitive climbing.
 
-„Lezu prakticky od kolébky a do dvanácti let jsem nevěděl, že je nějaký svět mimo skály,“ vypráví Adam. „Spoustu rozhodnutí na skále za mě provádí intuice, připadá mi to automatické, jasné. Občas si skoro připadám, jako kdybych byl nějaká hračka, Lego, samotné pohyby rukou a nohou za mě prováděl někdo jiný a já to sledoval zpovzdálí. Jako kdybych na to ani neměl vliv. Je super být na skále v tomhle stavu beztíže,“ rozplývá se.
+“I’ve been climbing basically since I was born and until I was twelve I hadn’t known there was any other world outside the rocks,” says Adam. “Lots of decisions are made by my intuition on the rock. It all seems automatic and obvious to me. Sometimes I almost feel as if I were a toy, a Lego, and the movements of my hands and legs were being made by someone else and I were just watching it from a distance without being able to influence it. It’s fantastic to be on the rock in this kind of weightlessness,” he enthuses.
 
-S tím souvisí poslední specifikum, které Adam s Pavlem zmiňují. Díky intuici a skvělé svalové paměti si vcukuletu zapamatuje všechny kroky a při přelezu ho nebrzdí přemýšlení, co dál: leze automaticky. V porovnání s ostatními lezci proto stejnou cestu vyběhne rychleji.
+That is connected with the last unique feature that Adam and Pavel mention. Thanks to his intuition and excellent muscle memory he can remember all the steps in no time and when he is climbing, he isn’t hampered by thinking about it, he just climbs automatically. As a result, he can climb the same route faster than other climbers.
 
-„Je to jednoduché: buď lezu, nebo odpočívám,“ tvrdí Adam. Zní to banálně. V jednom z přenosů ze světového poháru ale spolukomentátor – sám lezec – obdivně zmiňoval, jak mu tahle rada pomohla.
+“It’s easy: I’m either climbing or relaxing,” says Adam. It sounds trivial. However, in a broadcast from the World Championship a co-commentator, himself a climber, notes admiringly how this advice has helped him.
 
-Jak Adam tohle pravidlo myslí, ilustruje zmiňované video z přelezu Silence; přesněji čtyři minuty výstupu, které ve videu nenajdete. Po první obtížné pasáži skály visí Adam pouze na jedné noze, zaklíněné ve skále, a dlouho si v klidu protřepává unavené ruce. Při prvních pokusech se na stejném místě udržel 15 sekund. Kvůli kvalitnějšímu „odpočinku“ přímo v cestě strávil týdny posilováním levého lýtka.
+What Adam means by this rule is illustrated by the aforementioned video of his Silence climb, or more precisely, by four minutes of the climb that can’t be seen in the video. After the first difficult section Adam hangs on the rock using only one leg wedged into the rock shaking his arms calmly for a long time. During the first tests he could stay in the same place for 15 seconds. For better “relaxation” on the route he had spent weeks working his calf muscles.
 
 <wide><div><img src="https://www.irozhlas.cz/sites/default/files/styles/zpravy_fotogalerie_medium/public/uploader/adam_ondra_danelova__180909-195954_jab.jpg?itok=UiyXY7pQ" width="100%"></div></wide>
 
-## Glumové na stěně: filmové senzory měří lezce
+## Gollums on a climbing wall: film-makers’ sensors measuring climbers
 
-Měření hrubé síly tedy Adama nezajímalo. Genetické testy zase byly nad naše možnosti a hlavně schopnosti interpretace.
+Adam wasn’t interesting in measuring his brute force, while genetic testing was not within our compass and was, above all, beyond our capabilities of interpretation.
 
-Zato kloubní pohyblivost a techniku, která mu umožňuje překonávat papírově silnější lezce, jsme považovali za měřitelnou. A co víc, vizuálně zajímavou. Stačilo sehnat partnera, který dokáže na stěně nasnímat lezce ověšeného senzory, a zpracovat pohyb jeho kloubů do trojrozměrného modelu – tedy technologii motion capture. Stejným způsobem v minulosti vznikla filmová postava Gluma ([video](https://www.youtube.com/watch?v=w_Z7YUyCEGE)) nebo draka Šmaka, kterého rozhýbal Brit Benedict Cumberbatch ([video](https://www.youtube.com/watch?v=Wu9XPEdBelY)).
+However, what we did consider measureable as well as visually interesting was his joint mobility and the technique that enables him to outperform climbers who are officially stronger. All we needed was find a collaborator that could record the climber, hung with sensors, on a rock and transfer the movement of his joints into a 3D model, i.e. the motion capture technology. The same process was used to create the film character Gollum ([video](https://www.youtube.com/watch?v=w_Z7YUyCEGE)) or Smaug, the dragon, which was set in motion by British actor Benedict Cumberbatch ([video](https://www.youtube.com/watch?v=Wu9XPEdBelY)).
 
-Oproti autorům obou tolkienovských postav jsme ovšem měli těžší zadání: zaměřit kamery na dvě desítky metrů vysokou cestu a zabírat ji z podobného odstupu. Technologii, která by to dokázala, jsme hledali poměrně dlouho. Nakonec jsme ji objevili na Fakultě sportovních studií brněnské Masarykovy univerzity. Spolupráce s [laboratoří biomotoriky](http://www.fsps.muni.cz/vav/laboratore/laborator-biomotoriky-836.html) navíc znamenala kromě samotného měření i pomoc s interpretací pohybu – i když lezec byl pro akademiky novinka.
+However, in comparison with the creators of the Tolkien characters our task was more difficult: we needed to aim the cameras on a 20-metre climbing route and shoot it from similar distances. It took us quite long to find the technology that could do it. Eventually, we found it at Masaryk University’s Faculty of Sports Studies in Brno. Besides the measuring as such, their [Biomotor Laboratory](http://www.fsps.muni.cz/vav/laboratore/laborator-biomotoriky-836.html) also helped us interpret the movements although working with a climber was something new for the scholars.
 
 <wide><div><img src="https://www.irozhlas.cz/sites/default/files/styles/zpravy_fotogalerie_medium/public/uploader/adam_ondra_danelova__180909-200433_jab.jpg?itok=TSa1c8dO" width="100%"></div></wide>
 
-Adam Ondra, když je výjimečně v Česku, žije v Brně. Ve stejném městě jsme proto hledali i výzvu, která by ho prověřila. Nejblíž k tomu měla nejtěžší cesta na brněnské HUDY stěně s obtížností 8b. V porovnání s Adamovým maximem – rekordní Silence má hodnocení 9c – jde sice o relativně snadnou cestu, jenže pro většinu české špičky je taková cesta na hranici náročnosti. Cílem experimentu bylo porovnat Adamův styl se stylem jiného lezce, takže nalezená cesta byla ideální.
+When he is exceptionally in the Czech Republic, Adam Ondra lives in Brno. That’s why it was there that we looked for the challenge that would put him to a test. The most suitable was the hardest route of the HUDY climbing wall in Brno, rated at 8b. In comparison with Adam’s record (Silence is rated at 9c) it is a relatively easy route but for most Czech top climbers it’s the maximum difficulty. The aim of the experiment was to compare Adam’s style with that of another climber, so that route was perfect.
 
-Zbývalo najít soupeře pro duel. Ve skutečnosti spíš partnera: konkurenční boj je v tomhle sportu vzácný, lezci na domácí i mezinárodní scéně obvykle spolupracují. Naráželi jsme ale na to, že Adam je mezi Čechy jediný profesionál, ostatní mají lezení jen jako koníčka. Duelistu si nakonec vybral Adam sám: oslovil Štěpána Stráníka, mistra ČR a juniorského vicemistra světa v boulderingu, silovější variantě lezení na obtížnost. Coby boulderista je Štěpán spíš silový než technický lezec, takže mohla vyniknout rozdílnost stylů.
+The last thing was to find an opponent, or rather a partner because competition is rare in this sport – climbers on both the domestic and international scene tend to cooperate. The problem was that Adam is the only professional Czech climber; the others only do climbing as a hobby. In the end, Adam chose his “opponent” himself: he approached Štěpán Stráník, a champion of the Czech Republic and vice-champion of the world in bouldering, a more of a strength version of lead climbing. As a boulderer, Štěpán is a strength rather than technical climber, so the difference in their styles could become apparent.
 
-## Nižší tep, než máte v kanceláři
+## A pulse rate lower than yours in the office
 
-Těsně před měřením jsme lezce oblékli do [„chytrého“ trička](https://www.hexoskin.com/), které mělo za úkol měřit tep a dechovou frekvenci, abychom získali přehled o fyzické a psychické zátěži. Na klouby jsme jim nalepili senzory pro snímání polohy. Museli jsme spěchat, Adam ve svých o několik čísel menších lezečkách – lezeckých botách – nevydrží déle než pět minut. Šestici kamer jsme zaměřili na nejobtížnější moment cesty.
+Just before the measuring the climbers put on [“smart” T-shirts](https://www.hexoskin.com/) measuring their pulse and respiration rate so that we could get an idea of their physical and mental load. Position recording sensors were put on their joints. We had to hurry because Adam can’t bear to wear his climbing shoes, which are several sizes smaller, longer than five minutes. Six cameras were aimed at the most difficult point of the route.
 
 <wide><iframe width="100%" height="585px" src="https://www.youtube.com/embed/92rWsyGnUo4?rel=0&amp;controls=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></wide>
 
-Při Adamově prvním pokusu jsme fascinovaně sledovali jeho tep: ukazatel, který by měl nejlépe vypovídat o fyzické zátěži. Pod stěnou byl kolem 110 tepů za minutu, lehce nad klidovou hodnotou dospělého muže. Čekali jsme, že během výkonu vyroste k frekvenci nějakých 150 tepů za minutu. Jakmile se Adam vyšvihl do prvního kroku, tep začal klesat, v některých místech až na 70 tepů – méně, než má většina čtenářů tohoto článku na kancelářské židli. Podobný obraz ukazovala i dechová frekvence.
+During Adam’s first attempt we watched his pulse rate in amazement as it was the indicator that was supposed to show his physical load best. Under the wall it was about 110 beats per minute, which is slightly over the usual rate of an adult man. We had expected his pulse rate to increase to about 150 beats per minute during the performance. However, as soon as Adam swung himself up to make the first move, his pulse rate began to drop, in some places to fewer than 70 beats per minute, which is lower than the rate that most readers of this article have sitting in their offices. His respiration rate showed a similar development.
 
-Dvacetimetrovou cestu Adam vyběhl během necelých tří minut. Vzápětí se mu tep krátkodobě zvedl na frekvenci 170 za minutu.
+Adam climbed the twenty-metre route in just under three minutes. Immediately after that his pulse rate increased to 170 beats per minute for a short time.
 
-„Adam po ukončení lezení spontánně zvýší jak dechovou frekvenci, tak objem,“ vysvětluje Jiří Dostal z Institutu sportovního lékařství. „Tím okamžitě nastartuje regeneraci.“
+“Once he finishes climbing, his respiration rate and volume increase spontaneously,” says Jiří Dostal of the Institute of Sports Medicine. “As a result, his body immediately starts regenerating.”
 
 <wide><div><img src="https://www.irozhlas.cz/sites/default/files/styles/zpravy_fotogalerie_large/public/uploader/tep_180909-202555_jab.jpg?itok=CgdH6YQi" width="100%"></div></wide>
 
-Než jsme mu stačili tričko sundat, odchytili Adama rozhlasoví dokumentaristi a začali s natáčením. Při otázce na Olympiádu v Tokiu za dva roky, kde se poprvé představí sportovní lezení, Adamovi křivka vyskočila na 150 tepů za minutu. Adam, podobně jako další lezci, nesouhlasí s podobou turnaje na olympijských hrách: tři lezecké disciplíny, lezení na obtížnost, bouldering a rychlostní lezení, budou spojeny do jedné. „Naprostá většina elitních lezců se specializuje v jediné disciplíně, takže debut lezení na olympijských hrách bude podmanivá, vzrušující a naprosto nepředvídatelná podívaná,“ hájí novinku Mezinárodní olympijský výbor.
+Before we managed to take his T-shirt off, Adam was captured by radio documentarists, who began recording. When he was asked about the 2020 Tokyo Olympics, the curve went up to 150 beats per minute. Like other climbers, Adam disapproves of the form of the Olympic tournament, where three disciplines – lead climbing, bouldering and speed climbing – will be combined into one. “Given that the vast majority of elite climbers specialise in one discipline only, the sport’s Olympic Games debut is sure to be a captivating, exciting, and completely unpredictable spectacle,” the International Olympic Committee defends the decision.
 
-„Je to jako nechat Usaina Bolta běžet maraton a pak sprint přes překážky,“ doplňuje v promo článku na Tokio britská šampionka Shauna Coxsey. Jí se taková kombinace líbí, většina lezců ji ale odmítá.
+“It’s a bit like asking Usain Bolt to run a marathon and then do the hurdles,” British champion Shauna Coxey comments in an article promoting the Tokyo Olympics. While she likes this combination, most other climbers reject it.
 
 <wide><iframe width="100%" height="585px" src="https://www.youtube.com/embed/TvvgfImroYo?rel=0&amp;controls=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></wide>
 
-Také u Štěpána Stráníka byla zpočátku tepovka nízká, kolem 100 tepů za minutu. Štěpán ovšem ve stěně strávil přes pět minut a na několika místech musel odpočívat. Ke konci cesty se tep, stejně jako dechová frekvence, podstatně zvýšil.
+Štěpán Stráník’s pulse rate was also low at the beginning – about 100 beats per minute. However, Štěpán spent over five minutes on the wall and had to rest in a few places. At the end of the route his pulse rate as well as respiration rate increased significantly.
 
-Duel na stěně proběhl rychleji, než jsme očekávali. Zbyl nám čas, Adama jsme proto ze zvědavosti vzali ještě na bleskové měření síly.
+The duel on the wall happened faster than we had expected. There was some time left, so, out of curiosity, we quickly measured Adam’s strength.
 
-## Překvapení v laboratoři: hlava jako kyvadlo
+## Surprise in the lab: a head like a pendulum
 
-Testy síly prstů, rukou a ramene potvrdily původní předpoklad: například ramena má Adam silnější než 90 až 95 procent populace. Podobné srovnání ukázaly i ostatní měřené svaly. Je to hodně, ale u trojnásobného mistra světa by se daly čekat ještě vyšší hodnoty.
+The finger, arm and shoulder strength tests confirmed our expectations: for example, Adam’s shoulders are 90%– 95% stronger than those of most of the population. The other measured muscles showed similar figures. They were really high although with a three-time world champion you might expect even higher ones.
 
 <wide><div><img src="https://www.irozhlas.cz/sites/default/files/styles/zpravy_fotogalerie_medium/public/uploader/adam_ondra_danelova__180909-200849_jab.jpg?itok=8qEwN-ij" width="100%"></div></wide>
 
-Měření také ukázalo, že levé rameno má o čtvrtinu silnější než pravé. „Rozdíl do 10 procent je v pořádku, 26 procent je hodně, pak musí jedno rameno to druhé dohánět,“ komentuje výsledky Tomáš Vodička z laboratoře biomotoriky.
+The measuring also proved that his left shoulder is about a quarter stronger than the left one. “A difference of up to 10% is normal but 26% is a lot because that means that one shoulder must keep trying to catch up with the other,” Tomáš Vodička of the Biomotor Laboratory comments on the results.
 
-„Většina lezců má jednu stranu podstatně silnější,“ reaguje Adam Ondra. „Na levé ruce udělám třináct shybů, na pravé jen jedenáct. Mám to tak odjakživa.“
+“One side of the body is usually stronger in most climbers,” reacts Adam Ondra. “I can do thirteen pull-ups with my left arm, while with the left one it’s only eleven. It’s always been like that.”
 
-Také model pohybu z motion capture v pohybové laboratoři nejprve ukázal očekávané výsledky. Uprostřed obtížného kroku se Adam hlavně díky vysoké mobilitě kyčlí skutečně nalepil na stěnu, vzdálenost těžiště od stěny byla menší než 30 centrimetrů. U Štěpána to bylo 45 centimetrů.
+The motion capture model also showed expected results at first. In the middle of a difficult step Adam really clung to the wall, thanks to the high mobility of his hips, with his centre of gravity being closer than 30 centimetres to the wall, while Štěpán’s was 45 centimetres from the wall.
 
-<wide><div><img src="https://www.irozhlas.cz/sites/default/files/styles/zpravy_fotogalerie_large/public/uploader/vzdalenost_teziste_o_180909-203536_jab.jpg?itok=NwdLD9Gc" width="100%"></div></wide>
+<wide><div><img src="https://www.irozhlas.cz/sites/default/files/styles/zpravy_fotogalerie_medium/public/uploader/vzdalenost_teziste_o_180914-084742_jab.jpg?itok=s78Xbibz" width="100%"></div></wide>
 
-Porovnání mezi oběma lezci ukázalo i další rozdíly: zatímco Adam má v klíčovém kroku rovná záda a lokty drží u stěny – jako z učebnice – Štěpán se při něm nahrbí a technické nedostatky dohání silou.
+The comparison of the two climbers showed other differences as well: while during a key move Adam’s back is straight and his elbows are at the wall – like in a textbook –, Štěpán arches his back and uses strength to make up for the technical deficiencies.
 
-Pak ale přišlo překvapení. Když obrazovku s lezoucími kostrami obou sportovců uviděl děkan fakulty, odborník na biomechaniku Martin Zvonař, všiml si detailu, který jsme přehlédli.
+However, a surprise came after that. When Martin Zvonař, a biomechanics expert and the dean of the Faculty, saw the screen with the skeletons of the two athletes climbing, he noticed a detail we had overlooked.
 
-„Všimněte si, co Adam na konci kroku udělá s hlavou,“ ukazoval Zvonař na obrazovku. „Používá ji jako páku: jakmile dokončí pohyb, zakloní ji. Střed páky je v těžišti, takže díky tomu lépe přilepí nohy ke stěně. Nevím, jestli to dělá úmyslně nebo intuitivně, ale určitě mu to pomáhá.“
+“Note what Adam does with his head at the end of the move,“ says Zvonař pointing at the screen. “He uses it as a lever: once he has finished a movement he tilts his head back. The centre of the lever is in the centre of gravity and as a result his feet cling better to the wall. I don’t know whether he does that knowingly or intuitively but it definitely helps him.”
 
-„Hlava váží sedm kilo,“ pokračoval Zvonař. „Přidejte si k tomu Adamův dlouhý krk a z pohledu biomechaniky máte velmi efektivní stroj.“
+“Human’s head weighs seven kilos,” Zvonař continues. “Add Adam’s long neck to it and you get a very effective machine from the point of view of biomechanics.”
 
-Doplnil ještě jeden detail: relativně útlá Adamova ramena podle něj znamenají menší páku na prsty, ty díky tomu nemusejí zabírat takovou silou.
+He added one more detail: he assumes that Adam’s relatively slim shoulders mean less leverage acting on his fingers, which, as a result, don’t need to exert so much power.
 
-_Styl obou lezců můžete srovnat sami: posunem dolů a nahoru po obrazovce, případně táhlem pod videem, si můžete procházet záběr po záběru. Levá část ukazuje záběry z jedné ze šesti kamer, prostřední část 3D model kostry lezce, graf vpravo aktuální vzdálenost těžiště lezce od stěny._
+_You can compare both climbers’ styles yourselves: by moving up and down the screen or using the drawbar under the video you can go from one shot to another. The left section shows the shots of one of the six cameras, the central section shows a 3D model of the climber’s skeleton, and the graph on the right shows the distance of the climber’s centre of gravity from the wall. If your Internet connection is slow, it might take more time for the individual moves to load._
 
 ## Adam Ondra
 
 <wide>
 <div class="board" id="ao_board">
-    <img id="ao_vid" class='img' src="https://data.irozhlas.cz/ao-scrollboard/media/adam_video/5.jpg" alt="">
-    <img id="ao_3d" class='img2' src="https://data.irozhlas.cz/ao-scrollboard/media/adam_3d/5.jpg" alt="">
+    <img id="ao_vid" class='img' src="https://data.irozhlas.cz/ao-scrollboard-en/media/adam_video/5.jpg" alt="">
+    <img id="ao_3d" class='img2' src="https://data.irozhlas.cz/ao-scrollboard-en/media/adam_3d/5.jpg" alt="">
     <div id="ao_chart" class="chart"></div>
     <!-- <div id="ao_pop", class="pop"></div> -->
     <div class="sliderbox">
@@ -130,8 +128,8 @@ _Styl obou lezců můžete srovnat sami: posunem dolů a nahoru po obrazovce, p�
 
 <wide>
 <div class="board" id="ss_board">
-    <img id="ss_vid" class='img' src="https://data.irozhlas.cz/ao-scrollboard/media/stepan_video/5.jpg" alt="">
-    <img id="ss_3d" class='img2' src="https://data.irozhlas.cz/ao-scrollboard/media/stepan_3d/5.jpg" alt="">
+    <img id="ss_vid" class='img' src="https://data.irozhlas.cz/ao-scrollboard-en/media/stepan_video/5.jpg" alt="">
+    <img id="ss_3d" class='img2' src="https://data.irozhlas.cz/ao-scrollboard-en/media/stepan_3d/5.jpg" alt="">
     <div id="ss_chart" class="chart"></div>
     <!-- <div id="ss_pop", class="pop"></div> -->
     <div class="sliderbox">
@@ -140,38 +138,40 @@ _Styl obou lezců můžete srovnat sami: posunem dolů a nahoru po obrazovce, p�
 </div>
 </wide>
 
-## Balet a žirafí krky
+## Ballet and giraffe’s necks
 
-V rodinném domku v brněnských Žabovřeskách mi otevírá paní Ondrová. „Omlouvám se za ten smrad, Adam si právě smaží krevety,“ vítá mě. Za ní stojí Adam s připáleným obědem.
+Opening the door of Adam’s family’s house in the Brno quarter of Žabovřesky is Mrs. Ondrová. “I am sorry about the terrible smell, but Adam is just frying some prawns,” she welcomes me. Standing behind her is Adam with his burnt lunch.
 
-„Možná na tom něco bude,“ reaguje, když mu ve videu ukazuju, jak si pomáhá hlavou. „Měřím 187 centimetrů, ale ramena budu mít stejně vysoko jako normální smrtelník. Fyzioterapeutka mi říkala, že ten dlouhý krk by mi mohl pomáhat s rovnováhou.“
+“There might be something to it,” he responds when I show him in the video how he uses his head. “I’m 187 centimetres tall but my shoulders are probably at the same height as those of most mortals. My physiotherapist says that my long neck could help me keep my balance.”
 
-„Každopádně s hlavou musím pracovat intuitivně, nikdo mě to nikdy neučil,“ dodává.
+“In any case, I have never been taught to use my head so the way I use it must be intuitive,” he adds.
 
-Techniku mu přitom pomáhala a pomáhá pilovat řada odborníků z nejrůznějších disciplín. Po přelezu Silence někteří experti zmiňovali, že největší rozdíl mezi Adamem a ostatními lezci je v profesionalitě: českého lezce do Norska doprovázel trenér, fyzioterapeut a několik dalších členů týmu. Právě fyzioterapeut Klaus Isele mu pomáhal s tréninkem nasucho, kdy si Adam vleže na zádech vizualizoval celou cestu ([video](https://youtu.be/ZRTNHDd0gL8?t=9m20s)).
+In spite of that, there have been many experts helping him to hone his technique. After he climbed Silence, some experts mentioned the fact that the biggest difference between Adam and other climbers is in the degree of professionalism: in Norway he was accompanied by his trainer, physiotherapist and a few other team members. Physiotherapist Klaus Isele had helped him do a “mock training” session with Adam lying on his back and visualising the whole route ([video](https://youtu.be/ZRTNHDd0gL8?t=9m20s)).
 
-Mezi trenéry má zvláštní postavení Jiří Čumpelík: fyzioterapeut baletu Národního divadla, a také „tanečník, pedagog a jogín“, jak píše na své vizitce. Nikdy nevylezl jedinou cestu, přesto Adama nejspíš ovlivnil nejsilněji – zvlášť baletním rozlišením nohou na _kročnou_ a _stojnou_, které Adam převzal pro tak odlišný pohyb, jako je lezení.
+There is a trainer who plays a special role – Jiří Čumpelík, the National Theatre Ballet’s physiotherapist and a “dancer, teacher and yogi” as his business card says. He has never climbed a single route but he might have influenced Adam most, especially by distinguishing between the working leg and the supporting leg, like in ballet, which is something that Adam uses for such a different type of activity as climbing.
 
 <wide><div><img src="https://www.irozhlas.cz/sites/default/files/styles/zpravy_fotogalerie_medium/public/uploader/adam_ondra_danelova__180909-201444_jab.jpg?itok=m6D9Gnkd" width="100%"></div></wide>
 
-„Práci s hlavou lezci neřeší,“ přemýšlí nahlas Adam Ondra. „Vlastně ani neznám nikoho s podobnou postavou. I když možná Janja je podobná. Má dlouhý krk a malou hlavu.“
+“Climbers don’t think about working with the head,” Adam Ondra thinks aloud. “In fact, I don’t know anyone with a physique similar to mine. Although Janja might be similar. She’s got a long neck and a small head.”
 
-Má na mysli Janju Garnbret, devatenáctiletou Slovinku, která je mezi lezkyněmi považovaná za podobný fenomén jako Adam mezi muži. Vyniká ve dvou ze tří lezeckých disciplín: lezení na obtížnost a boulderingu. Také ona dokáže předvést neuvěřitelné pohyby, kde využívá hlavu k udržení rovnováhy ([video](https://youtu.be/b2MphXypjD4?t=1h40s)).
+He means Janja Garnbret, a nineteen-year-old Slovenian female climber who is regarded as a similar phenomenon as Adam among the males. She excels in two of the climbing disciplines, lead climbing and bouldering. She can also make unbelievable movements using her head to keep her balance ([video](https://youtu.be/b2MphXypjD4?t=1h40s)).
 
-„Můžete to klidně napsat, snad si lezci kvůli mně nezačnou dělat žirafí krky jako někde v Africe,“ loučí se Adam.
+“You can feel free to write about that. I just hope that because of me climbers won’t begin turning their necks into giraffe’s necks, like in Africa,” Adam concludes.
 
-## Protože ho to nejvíc baví
+## Because he’s the one who enjoys it most
 
-Studií, které se zabývají lezeckým pohybem, přibývá zároveň s tím, jak se sport profesionalizuje. Skutečný boom nejspíš přijde po olympijském turnaji ve sportovním lezení v Tokiu 2020.
+As the sport is becoming more professionalised, the number of studies dealing with climbers’ movements is increasing. There is likely to be a real boom after the sports climbing tournament at the 2020 Tokyo Olympics.
 
-Většina analytiků se soustředí na sílu nebo techniku, někteří na biochemické procesy a podobně jako u jiných sportů, i tady můžeme brzo čekat výsledky genetických testů.
+Most analysts concentrate on strength or technique, while others focus on biochemical processes and, like with other sports, we can expect to have the results of genetic testing soon.
 
-Jiní experti sledují duševní pochody: zvlášť zajímavé jsou u těch, kteří se na skály vydávají bez lana. [Studie webu Nautilus](http://nautil.us/issue/39/Sport/the-strange-brain-of-the-worlds-greatest-solo-climber) třeba podrobila špičkového _free solo_ lezce Alexe Honnolda vyšetření na magnetické rezonanci, aby otestovala jeho amygdalu – mozkové centrum, klíčové pro prožívání strachu. „Jeho amygdala v mozku dříme jako starý pes v irské putyce,“ zjistili.
+Other experts examine climbers’ mental processes, which are particularly interesting in those who climb without using ropes. A [Nautilus study](http://nautil.us/issue/39/Sport/the-strange-brain-of-the-worlds-greatest-solo-climber) subjected top-class free solo climber Alex Honnold to magnetic resonance scanning to test his amygdala, which is the brains “fear centre.” They found out that “his amygdala sleeps in his brain like an old dog in an Irish pub.”
 
-Možná je ale odpověď mnohem jednodušší.
+However, the answer might be much simpler.
 
-V létě jsme na skalách ve slovinském Ospu potkali francouzský pár, který se lezením živí a Adama vídá v kempech po celém světě. „Proč je nejlepší,“ zeptal jsem se Francouzů.
+In summer, on the rocks of Osp, Slovenia, we met a French couple who are professional climbers and keep meeting Adam at camps all over the world. “Why is he the best?” I asked them.
 
-„Protože ho to nejvíc baví,“ odpověděli bez přemýšlení.
+“Because he’s the one who enjoys it most,” they replied without hesitation.
+
+_Translation into English by Jan Hokeš_
 
 <wide><div><img src="https://www.irozhlas.cz/sites/default/files/styles/zpravy_fotogalerie_medium/public/uploader/adam_ondra_danelova__180909-201707_jab.jpg?itok=3cgFaqEd" width="100%"></div></wide>
